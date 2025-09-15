@@ -1,0 +1,1 @@
+I used pygame to build a simple matching game to help teach myself about noun structure in Kinyarwanda. Kinyarwanda has really difficult grammar and something I couldn't wrap my head around was the way nouns are classified and how that changes their singular and plural form. I hope to continue adding to this game and maybe make a website out of it.
